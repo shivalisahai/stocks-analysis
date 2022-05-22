@@ -3,7 +3,7 @@
 
 ## Overview of Project
 
-In this project, we edited, or refactored, All stocks Analysis solution code from the green stock database, to loop through all the data at once in order to collect the same information. The purpose of this project is to determined whether refactoring our code successfully made the VBA script run faster.
+In this project, we edited, or refactored, All stocks Analysis solution code from the green stock database, to loop through all the data at once in order to collect the same information. The purpose of this project is to determine whether refactoring our code successfully made the VBA script run faster.
 
 ## Results
 
@@ -29,11 +29,11 @@ In the pictures below dipicted are orignal and refactored 2017 & 2018 all stocks
 
 
 - All stocks produced positive returns in year 2017 except TERP.
-- 
+ 
 - ENPH & RUN are the only stocks with positive returns in year 2018.
-- 
+
 - ENPH Total daily volume increased exponentionally from 221,772,100 to 607,473,500 whereas RUN Total daily volumes increased from 267,681,300 to 502,757,100 showing that there was more interest towards these stocks and they produced good returns.
-- 
+
 - Rest of the stocks performed poorly giving negative returns with DQ losing the most value.
  
 ###### ***Orignal & Refactored Code Analysis***
