@@ -55,7 +55,7 @@ In the pictures below dipicted are orignal and refactored 2017 & 2018 all stocks
 -The refactored code used array and conditional loops which have a strong effect on increasing the performance if used correctly.
 
 
-##Summary
+## Summary
 
 _Refactoring Code_:
 
@@ -69,9 +69,10 @@ Its time consuming,as one has no idea how long will it take to complete the proc
 
 _Orignal & Refactored VBA Script_
 
-An advantage of refactoring code is that it makes the code more efficient and faster by using more loops that go through lesser iterations as compared to nested loops in the orignal code. A disadvantage would be that the refactored code is harder to read & understand for anyone other than the coder.
+An _advantage_ of refactoring code is that it makes the code more efficient and faster by using more loops that go through lesser iterations as compared to nested loops in the orignal code. A disadvantage would be that the refactored code is harder to read & understand for anyone other than the coder.
 
 
 ## References
+
 https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software
 http://www.cpearson.com/excel/ArraysAndRanges.aspx
