@@ -11,7 +11,7 @@ The results are divided into two parts. The first part covers the stock analysis
 The second part covers the analysis between the original & the refactored code.
 
 
-###### *All Stocks Analysis*
+###### ***All Stocks Analysis***
 
 In the pictures below dipicted are orignal and refactored 2017 & 2018 all stocks analysis with run time.
 
@@ -30,18 +30,22 @@ In the pictures below dipicted are orignal and refactored 2017 & 2018 all stocks
 
 
  
-###### *Orignal & Refactored Code Analysis*
+###### ***Orignal & Refactored Code Analysis***
 
 - <img width="338" alt="code-orignal" src="https://user-images.githubusercontent.com/104603128/169672333-11e1c35b-37dc-43ee-be19-9be1dfed5203.png">
-The orignal code ran in 1.194092 seconds for the year 2017 where as the refactored code ran in 0.1875 secods for the same year.
-![Uploading code-refactored.png…]()
+-The orignal code ran in 1.125 seconds for the year 2017 where as the refactored code ran in 0.1875 secods for the same year.
+-For the year 2018, the orignal code ran for 1.15625 seconds whereas the refactored code ran in 0.1875 seconds.
+-In the orignal code we used nested loops which made the code smaller but increased the run time.
+-The refactored code used array and conditional loops which have a strong effect on increasing the performance if used correctly.
 
 
-
-s well described with screenshots and code (4 pt).
 ##Summary
 
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
 
 ##Submission
+
+## References
+
+http://www.cpearson.com/excel/ArraysAndRanges.aspx
