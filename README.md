@@ -69,7 +69,7 @@ Its time consuming,as one has no idea how long will it take to complete the proc
 
 _Orignal & Refactored VBA Script_
 
-An _advantage_ of refactoring code is that it makes the code more efficient and faster by using more loops that go through lesser iterations as compared to nested loops in the orignal code. A disadvantage would be that the refactored code is harder to read & understand for anyone other than the coder.
+An _advantage_ of refactoring code is that it makes the code more efficient and faster by using more loops that go through lesser iterations as compared to nested loops in the orignal code. A _disadvantage_ would be that the refactored code is harder to read & understand for anyone other than the coder.
 
 
 ## References
